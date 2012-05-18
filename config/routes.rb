@@ -4,17 +4,17 @@ root :to => 'pages#home'
 
 get 'pages/home'
 
-get 'pages/bilder'
+get 'pages/werke'
 
 get 'pages/about'
 
 get 'pages/contact'
 
-get 'pages/bild1'
+get 'pages/werk1'
 
-get 'pages/bild2'
+get 'pages/werk2'
 
-get 'pages/bild3'
+get 'pages/werk3'
 
 get 'pages/bild4'
 
@@ -22,17 +22,17 @@ get 'pages/bild5'
 
 get 'pages/bild6'
 
-match '/bilder', to: 'pages#bilder'
+match '/werke', to: 'pages#werke'
 
 match '/contact', to: 'pages#contact'
 
 match '/about', to: 'pages#about'
 
-match '/bild1', to: 'pages#bild1'
+match '/werk1', to: 'pages#werk1'
 
-match '/bild2', to: 'pages#bild2'
+match '/werk2', to: 'pages#werk2'
 
-match '/bild3', to: 'pages#bild3'
+match '/werk3', to: 'pages#werk3'
 
 match '/bild4', to: 'pages#bild4'
 

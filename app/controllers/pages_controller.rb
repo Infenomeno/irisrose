@@ -3,7 +3,7 @@ class PagesController < ApplicationController
 		@title = "Iris Rose - Kunst"
 	end
 
-	def bilder
+	def werke
 		@title = "Werke"
 	end
 
@@ -15,27 +15,15 @@ class PagesController < ApplicationController
 		@title = "Iris Rose"
 	end
 
-	def bild1
-		@title = "Springtime Sunset"
+	def werk1
+		@title = "Friesenhaus"
 	end
 
-	def bild2
-		@title = "Yellowstone Breeze"
+	def werk2
+		@title = "Dame dem Meer entgegenblickend"
 	end
 
-	def bild3
-		@title = "Rocky Shores of California"
-	end
-
-	def bild4
-		@title = "Eucalyptus"
-	end
-
-	def bild5
-		@title = "North of Santa Barbara"
-	end
-
-	def bild6
-		@title = "Study for Coast at More Mesa"
+	def werk3
+		@title = "Sylter Strand"
 	end
 end
