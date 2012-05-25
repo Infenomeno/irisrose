@@ -6,6 +6,14 @@ get 'pages/home'
 
 get 'pages/werke'
 
+get 'pages/landschaft'
+
+get 'pages/portrait'
+
+get 'pages/friesenhaus'
+
+get 'pages/diashow'
+
 get 'pages/about'
 
 get 'pages/contact'
@@ -16,29 +24,57 @@ get 'pages/werk2'
 
 get 'pages/werk3'
 
-get 'pages/bild4'
+get 'pages/werk4'
 
-get 'pages/bild5'
+get 'pages/werk5'
 
-get 'pages/bild6'
+get 'pages/werk6'
 
-match '/werke', to: 'pages#werke'
+get 'pages/werk7'
 
-match '/contact', to: 'pages#contact'
+get 'pages/werk8'
 
-match '/about', to: 'pages#about'
+get 'pages/werk9'
 
-match '/werk1', to: 'pages#werk1'
+get 'pages/werk10'
 
-match '/werk2', to: 'pages#werk2'
+get 'pages/werk11'
 
-match '/werk3', to: 'pages#werk3'
+get 'pages/werk12'
 
-match '/bild4', to: 'pages#bild4'
+get 'pages/werk13'
 
-match '/bild5', to: 'pages#bild5'
+get 'pages/werk14'
 
-match '/bild6', to: 'pages#bild6'
+get 'pages/werk15'
+
+get 'pages/werk16'
+
+get 'pages/werk17'
+
+get 'pages/werk18'
+
+get 'pages/werk19'
+
+get 'pages/werk20'
+
+get 'pages/werk21'
+
+get 'pages/werk22'
+
+get 'pages/werk23'
+
+get 'pages/werk24'
+
+get 'pages/werk25'
+
+get 'pages/werk26'
+
+
+
+
+
+# match '/werk9', to: 'pages#werk9'  falls nochmal gebraucht
 
 
 
