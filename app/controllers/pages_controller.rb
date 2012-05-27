@@ -4,8 +4,8 @@ class PagesController < ApplicationController
 		@title = "Iris Rose - Kunst"
 	end
 
-	def werke
-		@title = "Werke"
+	def bilder
+		@title = "Bilder"
 	end
 
 	def diashow
@@ -13,15 +13,15 @@ class PagesController < ApplicationController
 	end
 
 	def landschaft
-		@title = "Werke - Landschaft"
+		@title = "Bilder - Landschaft"
 	end
 
 	def portrait
-		@title = "Werke - Portraits"
+		@title = "Bilder - Portraits"
 	end
 
 	def friesenhaus
-		@title = "Werke - Friesenhaus"
+		@title = "Bilder - Friesenhaus"
 	end
 
 	def contact
@@ -32,107 +32,127 @@ class PagesController < ApplicationController
 		@title = "Iris Rose"
 	end
 
-	def werk1
-		@title = "Friesenhaus"
+	def bild1
+		@title = "Friesenhaus von vorne"
 	end
 
-	def werk2
-		@title = "Dame dem Meer entgegenblickend"
+	def bild2
+		@title = "Koch (Studienarbeit)"
 	end
 
-	def werk3
-		@title = "Sylter Strand"
+	def bild3
+		@title = "Abendstimmung Sylter Kliff"
 	end
 
-	def werk4
+	def bild4
 		@title = "Spaziergang am Nordseestrand"
 	end
 
-	def werk5
-		@title = "Kater"
+	def bild5
+		@title = "Kater Toni"
 	end
 
-	def werk6
+	def bild6
+		@title = "Labrador Lui am Strand"
+	end
+
+	def bild7
+		@title = "Haus an der Hamburger Elbe"
+	end
+
+	def bild8
+		@title = "Friesenhaus hinten"
+	end
+
+	def bild9
+		@title = "Friesenhaus im Winter"
+	end
+
+	def bild10
+		@title = "Mallorca"
+	end
+
+	def bild11
+		@title = "Michelle"
+	end
+
+	def bild12
+		@title = "Portrait Maren und Phillip"
+	end
+
+	def bild13
+		@title = "Phillip in den Duenen"
+	end
+
+	def bild14
 		@title = "Labrador"
 	end
 
-	def werk7
-		@title = "Labrador"
+	def bild15
+		@title = "Stilleben"
 	end
 
-	def werk8
-		@title = "Labrador"
+	def bild16
+		@title = "Portrait Valerie und Phillip"
 	end
 
-	def werk9
-		@title = "Labrador"
+	def bild17
+		@title = "Hafenstrand"
 	end
 
-	def werk10
-		@title = "Labrador"
+	def bild18
+		@title = "Friesenhaus in Wrixum"
 	end
 
-	def werk11
-		@title = "Labrador"
+	def bild19
+		@title = "Ruhe am Strand"
 	end
 
-	def werk12
-		@title = "Labrador"
+	def bild20
+		@title = "Kater Toni"
 	end
 
-	def werk13
-		@title = "Labrador"
+	def bild21
+		@title = "Friesenhaus Innengarten"
 	end
 
-	def werk14
-		@title = "Labrador"
+	def bild22
+		@title = "Friesenhaus von der Seite"
 	end
 
-	def werk15
-		@title = "Labrador"
+	def bild23
+		@title = "Labrador Lui auf den Katzenkoepfen"
 	end
 
-	def werk16
-		@title = "Labrador"
+	def bild24
+		@title = "Friesenhaus mit bluehendem Garten"
 	end
 
-	def werk17
-		@title = "Labrador"
+	def bild25
+		@title = "Valerie Buhne 16"
 	end
 
-	def werk18
-		@title = "Labrador"
+	def bild26
+		@title = "Kaminstimmung"
 	end
 
-	def werk19
-		@title = "Labrador"
+	def bild27
+		@title = "Shoreline Santa Barbara"
 	end
 
-	def werk20
-		@title = "Labrador"
+	def bild28
+		@title = "Covington Way"
 	end
 
-	def werk21
-		@title = "Labrador"
+	def bild29
+		@title = "Lake Los Carneros"
 	end
 
-	def werk22
-		@title = "Labrador"
+	def bild30
+		@title = "Mohnblumen"
 	end
 
-	def werk23
-		@title = "Labrador"
-	end
-
-	def werk24
-		@title = "Labrador"
-	end
-
-	def werk25
-		@title = "Labrador"
-	end
-
-	def werk26
-		@title = "Labrador"
+	def bild31
+		@title = "Wattenmeer"
 	end
 end

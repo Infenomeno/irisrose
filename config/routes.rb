@@ -4,7 +4,7 @@ root :to => 'pages#home'
 
 get 'pages/home'
 
-get 'pages/werke'
+get 'pages/bilder'
 
 get 'pages/landschaft'
 
@@ -18,63 +18,73 @@ get 'pages/about'
 
 get 'pages/contact'
 
-get 'pages/werk1'
+get 'pages/bild1'
 
-get 'pages/werk2'
+get 'pages/bild2'
 
-get 'pages/werk3'
+get 'pages/bild3'
 
-get 'pages/werk4'
+get 'pages/bild4'
 
-get 'pages/werk5'
+get 'pages/bild5'
 
-get 'pages/werk6'
+get 'pages/bild6'
 
-get 'pages/werk7'
+get 'pages/bild7'
 
-get 'pages/werk8'
+get 'pages/bild8'
 
-get 'pages/werk9'
+get 'pages/bild9'
 
-get 'pages/werk10'
+get 'pages/bild10'
 
-get 'pages/werk11'
+get 'pages/bild11'
 
-get 'pages/werk12'
+get 'pages/bild12'
 
-get 'pages/werk13'
+get 'pages/bild13'
 
-get 'pages/werk14'
+get 'pages/bild14'
 
-get 'pages/werk15'
+get 'pages/bild15'
 
-get 'pages/werk16'
+get 'pages/bild16'
 
-get 'pages/werk17'
+get 'pages/bild17'
 
-get 'pages/werk18'
+get 'pages/bild18'
 
-get 'pages/werk19'
+get 'pages/bild19'
 
-get 'pages/werk20'
+get 'pages/bild20'
 
-get 'pages/werk21'
+get 'pages/bild21'
 
-get 'pages/werk22'
+get 'pages/bild22'
 
-get 'pages/werk23'
+get 'pages/bild23'
 
-get 'pages/werk24'
+get 'pages/bild24'
 
-get 'pages/werk25'
+get 'pages/bild25'
 
-get 'pages/werk26'
+get 'pages/bild26'
+
+get 'pages/bild27'
+
+get 'pages/bild28'
+
+get 'pages/bild29'
+
+get 'pages/bild30'
+
+get 'pages/bild31'
 
 
 
 
 
-# match '/werk9', to: 'pages#werk9'  falls nochmal gebraucht
+# match '/bild9', to: 'pages#bild9'  falls nochmal gebraucht
 
 
 
