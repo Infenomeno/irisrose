@@ -37,7 +37,7 @@ class PagesController < ApplicationController
 	end
 
 	def bild2
-		@title = "Koch (Studienarbeit)"
+		@title = "Michelle"
 	end
 
 	def bild3
@@ -61,7 +61,7 @@ class PagesController < ApplicationController
 	end
 
 	def bild8
-		@title = "Friesenhaus hinten"
+		@title = "Friesenhaus von hinten"
 	end
 
 	def bild9
@@ -73,7 +73,7 @@ class PagesController < ApplicationController
 	end
 
 	def bild11
-		@title = "Michelle"
+		@title = "Koch (Studienarbeit)"
 	end
 
 	def bild12
@@ -105,7 +105,7 @@ class PagesController < ApplicationController
 	end
 
 	def bild19
-		@title = "Ruhe am Strand"
+		@title = "Die Ruhe am Strand"
 	end
 
 	def bild20
