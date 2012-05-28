@@ -33,11 +33,11 @@ class PagesController < ApplicationController
 	end
 
 	def bild1
-		@title = "Friesenhaus von vorne"
+		@title = "Friesenhaus mit Garten"
 	end
 
 	def bild2
-		@title = "Michelle"
+		@title = "Michelle am Strand"
 	end
 
 	def bild3
@@ -45,7 +45,7 @@ class PagesController < ApplicationController
 	end
 
 	def bild4
-		@title = "Spaziergang am Nordseestrand"
+		@title = "Spaziergang am Sylter Strand"
 	end
 
 	def bild5
@@ -57,19 +57,19 @@ class PagesController < ApplicationController
 	end
 
 	def bild7
-		@title = "Haus an der Hamburger Elbe"
+		@title = "Haus in Blankenese, Hamburg"
 	end
 
 	def bild8
-		@title = "Friesenhaus von hinten"
+		@title = "Morgenstimmung"
 	end
 
 	def bild9
-		@title = "Friesenhaus im Winter"
+		@title = "Im tiefen Winter"
 	end
 
 	def bild10
-		@title = "Mallorca"
+		@title = "Segelschiff vor Dragonera"
 	end
 
 	def bild11
@@ -77,7 +77,7 @@ class PagesController < ApplicationController
 	end
 
 	def bild12
-		@title = "Portrait Maren und Phillip"
+		@title = "Gemeinsames Lesen"
 	end
 
 	def bild13
@@ -85,23 +85,23 @@ class PagesController < ApplicationController
 	end
 
 	def bild14
-		@title = "Labrador"
+		@title = "Abendstimmung Sylter Kliff"
 	end
 
 	def bild15
-		@title = "Stilleben"
+		@title = "Stilleben mit Blaumenstrauss"
 	end
 
 	def bild16
-		@title = "Portrait Valerie und Phillip"
+		@title = "Abendstimmung"
 	end
 
 	def bild17
-		@title = "Hafenstrand"
+		@title = "Vater und Sohn"
 	end
 
 	def bild18
-		@title = "Friesenhaus in Wrixum"
+		@title = "Haus in Wrixum"
 	end
 
 	def bild19
@@ -113,11 +113,11 @@ class PagesController < ApplicationController
 	end
 
 	def bild21
-		@title = "Friesenhaus Innengarten"
+		@title = "Innenhof mit Kindern"
 	end
 
 	def bild22
-		@title = "Friesenhaus von der Seite"
+		@title = "Bluetenmeer"
 	end
 
 	def bild23
@@ -125,11 +125,11 @@ class PagesController < ApplicationController
 	end
 
 	def bild24
-		@title = "Friesenhaus mit bluehendem Garten"
+		@title = "Im bluehendem Garten"
 	end
 
 	def bild25
-		@title = "Valerie Buhne 16"
+		@title = "Valerie an der Buhne 16"
 	end
 
 	def bild26
@@ -137,15 +137,15 @@ class PagesController < ApplicationController
 	end
 
 	def bild27
-		@title = "Shoreline Santa Barbara"
+		@title = "Shoreline, Santa Barbara"
 	end
 
 	def bild28
-		@title = "Covington Way"
+		@title = "Covington Way, Santa Barbara"
 	end
 
 	def bild29
-		@title = "Lake Los Carneros"
+		@title = "Lake Los Carneros, Santa Barbara"
 	end
 
 	def bild30
