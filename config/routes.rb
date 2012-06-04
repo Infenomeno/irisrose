@@ -80,6 +80,12 @@ get 'pages/bild30'
 
 get 'pages/bild31'
 
+get 'pages/bild32'
+
+get 'pages/bild33'
+
+get 'pages/bild34'
+
 
 
 

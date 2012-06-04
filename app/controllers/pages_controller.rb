@@ -155,4 +155,16 @@ class PagesController < ApplicationController
 	def bild31
 		@title = "Wattenmeer"
 	end
+
+	def bild32
+		@title = "San Telmo"
+	end
+
+	def bild33
+		@title = "Marsch Idylle"
+	end
+
+	def bild34
+		@title = "Friesenhaus Hinteransicht"
+	end
 end
