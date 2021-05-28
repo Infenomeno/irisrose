@@ -167,4 +167,76 @@ class PagesController < ApplicationController
 	def bild34
 		@title = "Friesenhaus Hinteransicht"
 	end
+
+	def bild35
+		@title = "Blick auf's Wattenmeer, Föhr"
+	end
+
+	def bild36
+		@title = "Rotes Kliff, Sylt"
+	end
+
+	def bild37
+		@title = "Dünenlandschaft, Sylt"
+	end
+
+	def bild38
+		@title = "Flügelspiel"
+	end
+
+	def bild39
+		@title = "Friesenhaus, Oevenum"
+	end
+
+	def bild40
+		@title = "Blick aus der Natur, Goleta"
+	end
+
+	def bild41
+		@title = "Kochkünste"
+	end
+
+	def bild42
+		@title = "Kühe in der Marsch, Föhr"
+	end
+
+	def bild43
+		@title = "Kuhherde, Föhr"
+	end
+
+	def bild44
+		@title = "Park Lake Los Carneros, Goleta"
+	end
+
+	def bild45
+		@title = "Park Lake Los Carneros, Goleta"
+	end
+
+	def bild46
+		@title = "Lui & Leyla"
+	end
+
+	def bild47
+		@title = "Surfer in Santa Barbara"
+	end
+
+	def bild48
+		@title = "Nebeliges Meer, Santa Barbara"
+	end
+
+	def bild49
+		@title = "Schafe in der Marsch, Föhr"
+	end
+
+	def bild50
+		@title = "Schafspaar, Föhr"
+	end
+
+	def bild51
+		@title = "Schaf & Lamm, Föhr"
+	end
+
+	def bild52
+		@title = "Zwei Kaninchen, Föhr"
+	end
 end

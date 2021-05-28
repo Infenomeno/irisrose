@@ -138,6 +138,7 @@ p {
 .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
   background-color: #2F2F2F;
 }
+
 /* mixins, variables, etc. */
 
 $grayMediumLight: #eaeaea;
@@ -146,4 +147,12 @@ $grayMediumLight: #eaeaea;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
+}
+
+.carousel-control.left {
+  background-image: none !important;
+}
+
+.carousel-control.right {
+  background-image: none !important;
 }
